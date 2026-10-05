@@ -10,4 +10,4 @@ Repositorio personal para las actividades, proyectos y apuntes de la materia.
 - `recursos/`: Enlaces, lecturas y material de apoyo.
 
 ## Alumno
-- **Nombre:** Gomez
+- **Nombre:** Luis Gómez
